@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yvonne-pixel
+- 👋 Hi, I’m Chepkoech
 - 👀 I’m interested in developing fun, effective and easy to use web applications.
 - 🌱 I’m currently learning java script and machine learning
 - 💞️ I’m looking to collaborate on projects revolving around web mapping and ML
