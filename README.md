@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Chepkoech
-- 👀 I’m interested in developing fun, effective and easy to use web applications.
-- 🌱 I’m currently learning java script and machine learning
-- 💞️ I’m looking to collaborate on projects revolving around web mapping and ML
+- 👋 Hi, I’m Yvonne
+- 👀 I’m a seasoned GIS expert who loves to code.
+- I am interested in using python programming to make sense of real world data that is often messy, needs cleaning and analysis in order to provide valuable insights.
+- other than coding I love to build beautiful, insightful maps.
+- 
 - 📫 How to reach me yvonnebettc@gmail.com
 
 
